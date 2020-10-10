@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/commonUtil/log_helper.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/commonUtil/path_helper.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/commonUtil/yaml_helper.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/config/normal.yaml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/data/platform_data_standard/v3-hangzhou.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/data/platform_data_standard/v3-yichang.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/data/range_items" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/indexes/constants_manager.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/indexes/elasticsearch_helper.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/indexes/entity/std_range_item.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/indexes/medical_range" charset="GBK" />
+  </component>
+</project>

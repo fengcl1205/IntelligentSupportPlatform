@@ -1,0 +1,6 @@
+2020-10-09 15:04:04,680 - log_helper.py[line:82] - INFO: The index already exists
+2020-10-09 15:04:04,681 - log_helper.py[line:83] - WARNING: The index already exists
+2020-10-09 15:04:04,681 - log_helper.py[line:84] - ERROR: The index already exists
+2020-10-09 15:04:04,682 - log_helper.py[line:82] - INFO: Retrieve initialization Success
+2020-10-09 15:04:04,682 - log_helper.py[line:83] - WARNING: Retrieve initialization Success
+2020-10-09 15:04:04,682 - log_helper.py[line:84] - ERROR: Retrieve initialization Success
