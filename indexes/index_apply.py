@@ -77,7 +77,6 @@ def es_search(query_content):
 
 
 def es_search(search_text):
-    ss = ''
     project_base_path = ph.get_local_project_path(os.path.dirname(os.path.abspath(__file__)), 1)
     path_config = os.path.join(project_base_path, 'config/normal.yaml')
     host = cm.get_es_host(path_config)
